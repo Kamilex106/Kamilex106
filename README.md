@@ -1,16 +1,13 @@
 I'm a 3rd year Computer Science student passionate about programming and solving technological problems. Currently, I'm developing my skills in Spring Boot and Angular development.
 
-🛠️ My Skills
-Programming Languages: Java, Python, JavaScript
+🛠️ My Skills:
+- Programming Languages: Java, Python, JavaScript
+- Web Technologies: HTML, CSS, Angular, Node.js
+- Databases: MySQL, PostgreSQL
+- Tools: Git, Docker, Postman, VirtualBox, terminal
 
-Web Technologies: HTML, CSS, Angular, Node.js
-
-Databases: MySQL, PostgreSQL
-
-Tools: Git, Docker, Postman, VirtualBox, terminal
-
-🔭 Current Projects
-I'm currently working on a BugTracker project
+🔭 Current Projects:
+- BugTracker project
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamilex106&layout=compact&theme=radical)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="32"/>](https://angular.io/)
