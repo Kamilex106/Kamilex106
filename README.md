@@ -5,11 +5,6 @@ I'm a 3rd year Computer Science student passionate about programming and solving
 - Web Technologies: HTML, CSS, Angular, Node.js
 - Databases: MySQL, PostgreSQL
 - Tools: Git, Docker, Postman, VirtualBox, terminal
-
-🔭 Current Projects:
-- BugTracker project
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamilex106&layout=compact&theme=radical)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>](https://www.java.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32"/>](https://spring.io/projects/spring-boot)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>](https://www.python.org/)
@@ -20,4 +15,10 @@ I'm a 3rd year Computer Science student passionate about programming and solving
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>](https://www.postgresql.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/>](https://www.docker.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="32"/>](https://www.postman.com/)
+
+🔭 Current Projects:
+- BugTracker project
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamilex106&layout=compact&theme=radical)
+
 
