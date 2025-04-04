@@ -1,7 +1,7 @@
 I'm a 3rd year Computer Science student passionate about programming and solving technological problems. Currently, I'm developing my skills in Spring Boot and Angular development.
 
 🛠️ My Skills:
-- Programming Languages: Java, Python, JavaScript
+- Programming Languages: Java, Python, TypeScript
 - Web Technologies: HTML, CSS, Angular, Node.js
 - Databases: MySQL, PostgreSQL
 - Tools: Git, Docker, Postman, VirtualBox, terminal
