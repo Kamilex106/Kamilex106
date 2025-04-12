@@ -1,7 +1,7 @@
 I'm a 3rd year Computer Science student passionate about programming and solving technological problems. Currently, I'm developing my skills in Spring Boot and Angular development.
 
 🛠️ My Skills:
-- Programming Languages: Java, Python, TypeScript
+- Programming Languages: Java, Python, PHP, TypeScript
 - Web Technologies: HTML, CSS, Angular, Node.js
 - Databases: MySQL, PostgreSQL
 - Tools: Git, Docker, Postman, VirtualBox, terminal
@@ -10,6 +10,7 @@ I'm a 3rd year Computer Science student passionate about programming and solving
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32"/>](https://spring.io/projects/spring-boot)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="32"/>](https://fastapi.tiangolo.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32"/>](https://https://www.php.net/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="32"/>](https://angular.io/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/>](https://www.typescriptlang.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>](https://www.mysql.com/)
